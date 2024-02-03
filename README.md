@@ -1,2 +1,2 @@
-# XinTong.github.io
+# XinTong Resume
 Personal website
