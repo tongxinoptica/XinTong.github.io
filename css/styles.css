@@ -10140,9 +10140,9 @@ section.resume-section .resume-section-content {
 }
 
 .publication-image {
-  max-width: 350px; /* 或者任何您希望的宽度 */
+  max-width: 400px; /* 或者任何您希望的宽度 */
   max-height: 400px;
-  width: 350px;
+  width: 400px;
   object-fit: cover;
 }
 
